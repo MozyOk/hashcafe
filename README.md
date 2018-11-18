@@ -1,2 +1,13 @@
-# hashcafe
-LNコーヒーメーカー用だよ
+# webpages
+
+```
+$ npm i
+```
+
+```
+$ npm start
+```
+
+```
+$ npm run build
+```
